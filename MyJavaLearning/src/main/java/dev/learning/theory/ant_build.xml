@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Sample Build File" default="compile" basedir=".">
+
+	<target name="compile" description="Compile Source Code">
+		<echo message="Starting Code Compilation" />
+		<javac srcdir="src" destdir="dist" />
+		<echo message="Completed Code Compilation" />
+	</target>
+
+</project>

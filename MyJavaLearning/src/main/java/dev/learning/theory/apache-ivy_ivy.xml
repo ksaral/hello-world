@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+	<info organisation="com.apress" module="gswm-ivy" />
+
+	<dependencies>
+		<dependency org="org.apache.logging.log4j" name="log4j-api"
+			rev="2.0.2" />
+	</dependencies>
+</ivy-module>
