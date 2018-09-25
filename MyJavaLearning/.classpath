@@ -22,6 +22,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Program Files/eclipse-jee-luna-SR2-win32/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar" sourcepath="D:/jars/junit-4.11-sources.jar"/>
+	<classpathentry kind="lib" path="lib/junit.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
